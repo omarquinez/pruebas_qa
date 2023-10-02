@@ -1,4 +1,5 @@
 # pruebas_qa
+KARATE
 * Windows 11 Pro
 * JDK 21 
 	- https://www.oracle.com/java/technologies/downloads/#jdk21-windows
